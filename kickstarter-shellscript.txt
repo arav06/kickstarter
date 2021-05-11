@@ -2,7 +2,7 @@
 
 # Kickstarter v1.0
 
-# This script helps in kickstarting a ctf game  
+# This script helps in starting a ctf game  
 # by pinging the ip,creating the required files  
 # and directories and starting the nmap scans
 # Required tools: Nmap and a Linux Distro such 
