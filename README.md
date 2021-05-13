@@ -44,7 +44,7 @@ chmod +x kickstarter.sh
 ```
 ## Updates 
 
-### v1.1
+### v1.1 (Work in progress)
 * Starting basic enumeration such as gobuster, nikto, enum4linux, etc
 * Syntax Highlighting 
 
