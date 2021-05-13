@@ -21,7 +21,7 @@ If you encounter errors or wish to suggest additions , post them on the issues t
 
 ### Nmap
 
-Choose the one with your preferred packet manager
+Choose the one with your preferred package manager
 
 ```
 sudo apt install nmap 
