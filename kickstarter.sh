@@ -1,10 +1,6 @@
 #!/bin/bash
 
-# This script automates the starting of a ctf game  
-# by pinging the ip,creating the required files  
-# and directories and starting the nmap scans
-
-# Syntax: ./kickstarter.sh Name IP
+#./kickstarter.sh Name IP
 
 name=$1
 ip=$2
