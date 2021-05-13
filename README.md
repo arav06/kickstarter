@@ -21,16 +21,18 @@ If you encounter errors or wish to suggest additions , post them on the issues t
 
 ### Nmap
 
+Choose the one with your preferred packet manager
+
 ```
-sudo apt install nmap -y
+sudo apt install nmap 
 ```
 
 ```
-sudo yum install nmap -y 
+sudo yum install nmap 
 ```
 
 ```
-sudo snap install nmap -y
+sudo snap install nmap 
 ```
 
 ### Kickstarter
