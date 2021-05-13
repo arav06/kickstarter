@@ -9,7 +9,7 @@ If you encounter errors or wish to suggest additions , post them on the issues t
 ## Features
 
 * Pings the IP
-* Creates required files and directories
+* Creates required files and directories to keep you organised
 * Starts nmap scans
 
 ## Requirements 
