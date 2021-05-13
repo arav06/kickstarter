@@ -18,7 +18,7 @@ else
 
 	echo "[+]Pinging "$ip
 	sleep 0.5
-	ping $ip -w 5
+	ping $ip -w 4
 
 	# Creating required files and directories
 
