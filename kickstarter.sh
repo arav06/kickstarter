@@ -44,7 +44,7 @@ else
 
 	echo "[+]Starting Nmap Initial Scan"
 	sleep 0.5
-	nmap -vvv -sV -sC -T4 -oN ./nmap/initial.txt $ip
+	nmap -vvv -sVC -A -T4 -oN ./nmap/initial.txt $ip
 	
 	echo "[+]Starting Nmap All Ports Scan, this may not be 100% accurate"
 	sleep 0.5
