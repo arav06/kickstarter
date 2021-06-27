@@ -19,28 +19,10 @@ If you encounter errors or wish to suggest additions , post them on the issues t
 
 ## Installation 
 
-### Nmap
-
-Choose the one with your preferred package manager
-
-```
-sudo apt install nmap 
-```
-
-```
-sudo yum install nmap 
-```
-
-```
-sudo snap install nmap 
-```
-
-### Kickstarter
-
-```
+```bash
 git clone https://github.com/arav06/kickstarter
-chmod +x kickstarter.sh
-./kickstarter.sh
+chmod +x setup.sh
+sudo ./setup.sh
 ```
 ## Updates 
 
