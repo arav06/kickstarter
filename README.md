@@ -24,6 +24,12 @@ git clone https://github.com/arav06/kickstarter
 chmod +x setup.sh
 sudo ./setup.sh
 ```
+
+Now, you can run it by typing
+```
+kickstarter
+```
+
 ## Updates 
 
 ### v1.1 (Work in progress)
