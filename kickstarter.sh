@@ -35,7 +35,7 @@ else
         mkdir flags
         touch README.md
         echo "# "$name >> README.md
-        date +"%d-%m-%y" >> README.md
+        date +"%d-%B %Y" >> README.md
         echo "" >> README.md
         echo "IP: "$ip >> README.md
         cd flags
