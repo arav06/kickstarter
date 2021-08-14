@@ -33,7 +33,7 @@ kickstarter
 ## Updates 
 
 ### v1.1 (Work in progress)
-* Starting basic enumeration with gobuster, nikto, enum4linux, etc
+* Starting basic enumeration
 * Syntax Highlighting 
 
 
