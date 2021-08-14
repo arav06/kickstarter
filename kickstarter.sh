@@ -56,7 +56,7 @@ else
         echo -e "\n"
         echo "[+]Starting Nmap All Ports Scan, this may not be 100% accurate"
         sleep 0.5
-        nmap -vvv -p- -T4 --max-retries 1 -oN ./nmap/all_ports.txt $ip
+        nmap -vvv -p- --min-rate 10000 -oN ./nmap/all_ports.txt $ip
 
 
 fi
