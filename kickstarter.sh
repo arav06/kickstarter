@@ -33,6 +33,7 @@ else
         mkdir logs
         mkdir exploits
         mkdir flags
+        mkdir www
         touch README.md
         echo "# "$name >> README.md
         date +"%d-%B %Y" >> README.md
