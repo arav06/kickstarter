@@ -8,10 +8,10 @@ ip=$2
 # Checking if the Name/IP variables are empty
 
 if [$name == ""] ;then
-        echo "./kickstarter.sh Name IP"
+        echo "kickstarter.sh Name IP"
 
 elif [$ip == ""] ;then
-        echo "./kickstarter.sh Name IP"
+        echo "kickstarter.sh Name IP"
 
 else
         echo -e "\n"
